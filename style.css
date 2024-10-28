@@ -2,6 +2,11 @@
 *{
     font-family: "Arial";
 }
+
+body{
+    background-color: rgb(203, 243, 230);
+}
+
 header h1{
 
     font-size: 7vh;
