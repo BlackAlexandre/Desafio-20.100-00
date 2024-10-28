@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Permanent+Marker&display=swap');
+*{
+    font-family: "Arial";
+}
+header h1{
+
+    font-size: 7vh;
+    font-family: "Permanent Marker", cursive ;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+}
+
+header > div > h3, h2{
+
+    font-size: 5vh;
+    font-family: "Patrick Hand", cursive;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    color: #d90c0c;
+}
+
+
+header > div > p{
+
+    font-size: vh;
+    font-family: "Patrick Hand", cursive;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    color: #666;
+}
+
+
+    button{
+    font-size: 3vh;
+    font-family: "Patrick Hand", cursive;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    color: #333;
+    background-color: #5a86cd;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
